@@ -1,0 +1,131 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://example.com/object1669535265.json",
+  "title": "Root",
+  "type": "object",
+  "required": [
+    "count",
+    "entities"
+  ],
+  "properties": {
+    "count": {
+      "$id": "#root/count",
+      "title": "Count",
+      "type": "integer",
+      "examples": [
+        30
+      ],
+      "default": 0
+    },
+    "entities": {
+      "$id": "#root/entities",
+      "title": "Entities",
+      "type": "array",
+      "default": [],
+      "items":{
+        "$id": "#root/entities/items",
+        "title": "Items",
+        "type": "object",
+        "required": [
+          "facet_ids",
+          "identifier",
+          "short_description"
+        ],
+        "properties": {
+          "facet_ids": {
+            "$id": "#root/entities/items/facet_ids",
+            "title": "Facet_ids",
+            "type": "array",
+            "default": [],
+            "items":{
+              "$id": "#root/entities/items/facet_ids/items",
+              "title": "Items",
+              "type": "string",
+              "default": "",
+              "examples": [
+                "contact"
+              ],
+              "pattern": "^.*$"
+            }
+          },
+          "identifier": {
+            "$id": "#root/entities/items/identifier",
+            "title": "Identifier",
+            "type": "object",
+            "required": [
+              "uuid",
+              "value",
+              "permalink",
+              "entity_def_id"
+            ],
+            "properties": {
+              "uuid": {
+                "$id": "#root/entities/items/identifier/uuid",
+                "title": "Uuid",
+                "type": "string",
+                "default": "",
+                "examples": [
+                  "75e047db-0f70-b7de-31b9-95633b2be2be"
+                ],
+                "pattern": "^.*$"
+              },
+              "value": {
+                "$id": "#root/entities/items/identifier/value",
+                "title": "Value",
+                "type": "string",
+                "default": "",
+                "examples": [
+                  "Gojek"
+                ],
+                "pattern": "^.*$"
+              },
+              "image_id": {
+                "$id": "#root/entities/items/identifier/image_id",
+                "title": "Image_id",
+                "type": "string",
+                "default": "",
+                "examples": [
+                  "hitobajlkseeivcjy22b"
+                ],
+                "pattern": "^.*$"
+              },
+              "permalink": {
+                "$id": "#root/entities/items/identifier/permalink",
+                "title": "Permalink",
+                "type": "string",
+                "default": "",
+                "examples": [
+                  "go-jek"
+                ],
+                "pattern": "^.*$"
+              },
+              "entity_def_id": {
+                "$id": "#root/entities/items/identifier/entity_def_id",
+                "title": "Entity_def_id",
+                "type": "string",
+                "default": "",
+                "examples": [
+                  "organization"
+                ],
+                "pattern": "^.*$"
+              }
+            }
+          }
+        ,
+          "short_description": {
+            "$id": "#root/entities/items/short_description",
+            "title": "Short_description",
+            "type": "string",
+            "default": "",
+            "examples": [
+              "Gojek is an app that provides a variety of services from payments, food delivery, transportation, and logistics."
+            ],
+            "pattern": "^.*$"
+          }
+        }
+      }
+
+    }
+  }
+}

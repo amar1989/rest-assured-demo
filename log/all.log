@@ -1,0 +1,371 @@
+2022-11-28 00:46:17.351 [main] INFO  com.crunchbase.CrunchbaseTest - Response JSON:
+{
+    "count": 30,
+    "entities": [
+        {
+            "facet_ids": [
+                "contact",
+                "investor",
+                "semrush",
+                "company",
+                "rank",
+                "builtwith",
+                "key_event"
+            ],
+            "identifier": {
+                "uuid": "75e047db-0f70-b7de-31b9-95633b2be2be",
+                "value": "Gojek",
+                "image_id": "hitobajlkseeivcjy22b",
+                "permalink": "go-jek",
+                "entity_def_id": "organization"
+            },
+            "short_description": "Gojek is an app that provides a variety of services from payments, food delivery, transportation, and logistics."
+        },
+        {
+            "facet_ids": [
+                "rank",
+                "semrush",
+                "builtwith",
+                "company"
+            ],
+            "identifier": {
+                "uuid": "39b46780-a25a-4020-91d9-707d51d1c36e",
+                "value": "Gojeker",
+                "image_id": "jj5lxsyx3zc1ecwrloog",
+                "permalink": "gojeker",
+                "entity_def_id": "organization"
+            },
+            "short_description": "Website yang Memberikan Informasi Seputar Bisnis Perusahaan Ojek Online dari Grab, Gojek, Maxim, Bonceng, Anterin dan lainnya"
+        },
+        {
+            "facet_ids": [
+                "contact",
+                "siftery",
+                "investor",
+                "semrush",
+                "company",
+                "rank",
+                "bombora"
+            ],
+            "identifier": {
+                "uuid": "46a13982-a5e4-4a09-b3ae-2095fe1135c5",
+                "value": "Gojek Xcelerate",
+                "image_id": "vibpt1g9xj8ryp7cr2fr",
+                "permalink": "gojek-xcelerate",
+                "entity_def_id": "organization"
+            },
+            "short_description": "Gojek Xcelerate is an accelerator scheme jointly run by Indonesia-based ride-hailing service Gojek."
+        },
+        {
+            "facet_ids": [
+                "company",
+                "rank"
+            ],
+            "identifier": {
+                "uuid": "cd617bed-5ad2-461a-af1e-a0b69327c8dc",
+                "value": "Gojek - Thailand",
+                "image_id": "wtwema0heu5u6exncgqp",
+                "permalink": "gojek-thailand",
+                "entity_def_id": "organization"
+            },
+            "short_description": "Gojek - Thailand provides a variety of services from payments, food delivery, transportation, and logistics."
+        },
+        {
+            "facet_ids": [
+                "company",
+                "rank",
+                "semrush"
+            ],
+            "identifier": {
+                "uuid": "b21e3d59-6b08-4f19-b5ed-1f5d1be10925",
+                "value": "Gojek App Clone",
+                "permalink": "gojek-app-clone",
+                "entity_def_id": "organization"
+            },
+            "short_description": "We offer a multi-service all in one app – gojek clone app for your on demand business startup."
+        },
+        {
+            "facet_ids": [
+                "company",
+                "rank",
+                "semrush"
+            ],
+            "identifier": {
+                "uuid": "4465ad8f-030a-4da5-8dfc-65fe1a2bf9c7",
+                "value": "Cubetaxi Technolabs",
+                "image_id": "rtc1mj6vmpjqfowyzhr9",
+                "permalink": "cubetaxi-technolabs",
+                "entity_def_id": "organization"
+            },
+            "short_description": "Uber Clone & Gojek Clone App Development"
+        },
+        {
+            "facet_ids": [
+                "rank",
+                "company",
+                "builtwith",
+                "semrush"
+            ],
+            "identifier": {
+                "uuid": "bb2cf6a3-4872-4720-a57d-0f9742c18c5d",
+                "value": "Infojek",
+                "image_id": "nblbkavxh4gmv2h9zxo5",
+                "permalink": "infojek",
+                "entity_def_id": "organization"
+            },
+            "short_description": "Informasi seputar ojek online baik gojek, grab, uber dari cara memesan, tarif, aplikasi, alamat, promo, call center"
+        },
+        {
+            "facet_ids": [
+                "contact",
+                "investor",
+                "semrush",
+                "company",
+                "rank",
+                "builtwith",
+                "bombora"
+            ],
+            "identifier": {
+                "uuid": "8abfc8ec-8604-40dd-a8d8-9ac5ec4d1d3d",
+                "value": "GoPlay",
+                "image_id": "vt7savtpkiaqgg5vissx",
+                "permalink": "goplay-1d3d",
+                "entity_def_id": "organization"
+            },
+            "short_description": "GoPlay is the video streaming service under Indonesia's Gojek."
+        },
+        {
+            "facet_ids": [
+                "company",
+                "rank",
+                "builtwith",
+                "semrush"
+            ],
+            "identifier": {
+                "uuid": "a3d260d3-26d7-40a1-a2a5-15a387267e40",
+                "value": "Ojolakademi",
+                "image_id": "nlusdkadlhuyn0wl7ios",
+                "permalink": "ojolakademi",
+                "entity_def_id": "organization"
+            },
+            "short_description": "Sebuah Website Panduan Ojek Online Indonesia Meliputi Grab, Gojek, Maxim, Indriver, Anterin, Asia Trans, GET Indonesia, Bonceng"
+        },
+        {
+            "facet_ids": [
+                "siftery",
+                "semrush",
+                "company",
+                "rank",
+                "builtwith"
+            ],
+            "identifier": {
+                "uuid": "0d0f1610-b9a1-a28f-9d66-db2e476b3c93",
+                "value": "eSiteWorld TechnoLabs",
+                "image_id": "v1397196997/897c4cca4e1b52096a09941aaaa12c28.png",
+                "permalink": "esiteworld-technolabs",
+                "entity_def_id": "organization"
+            },
+            "short_description": "eSiteWorld is a mobile app clone development company that develops uber clone, gojek clone, food delivery app for on demand businesses."
+        }
+    ]
+}
+2022-11-28 00:46:18.995 [main] INFO  com.crunchbase.CrunchbaseTest - Response JSON:
+{
+    "count": 36395,
+    "entities": [
+        {
+            "facet_ids": [
+                "contact",
+                "siftery",
+                "investor",
+                "ipqwery",
+                "apptopia",
+                "semrush",
+                "company",
+                "rank",
+                "builtwith",
+                "bombora",
+                "key_event"
+            ],
+            "identifier": {
+                "uuid": "a7682476-8a83-dbcf-73dc-41a841ef850e",
+                "value": "Grab",
+                "image_id": "v1463602429/hseqthtzwhrd9hatu9be.png",
+                "permalink": "grabtaxi",
+                "entity_def_id": "organization"
+            },
+            "short_description": "Grab is an application that provides transportation, logistics, and financial services."
+        },
+        {
+            "facet_ids": [
+                "contact",
+                "siftery",
+                "apptopia",
+                "semrush",
+                "company",
+                "rank",
+                "builtwith"
+            ],
+            "identifier": {
+                "uuid": "e26be543-ace0-1675-1cec-5021a2b66c66",
+                "value": "Grab",
+                "image_id": "v1430126310/eireyhylrcarjumah543.png",
+                "permalink": "grab-2",
+                "entity_def_id": "organization"
+            },
+            "short_description": "Grab is a last mile logistics service for businesses and enterprises to manage their last mile deliveries."
+        },
+        {
+            "facet_ids": [
+                "company",
+                "rank",
+                "bombora",
+                "semrush"
+            ],
+            "identifier": {
+                "uuid": "3b0652c9-eae8-4246-ba0e-f9e96ec6754e",
+                "value": "Grab",
+                "image_id": "ju8o76d5hrkhgb6elb66",
+                "permalink": "grab-754e",
+                "entity_def_id": "organization"
+            },
+            "short_description": "Grab is an app that provides delivery, mobility, financial, and enterprise services, and the opportunity to have a better life."
+        },
+        {
+            "facet_ids": [
+                "rank",
+                "semrush",
+                "contact",
+                "company"
+            ],
+            "identifier": {
+                "uuid": "82c7bdd0-9d98-4e0e-ae39-267723a62070",
+                "value": "Grab",
+                "image_id": "hkz2skxczou68zlqndcg",
+                "permalink": "grab-2070",
+                "entity_def_id": "organization"
+            },
+            "short_description": "Grab utilizes the servy platform to provide an omnichannel product that spans mobile/web, self-order, and self-checkout kiosks."
+        },
+        {
+            "facet_ids": [
+                "contact",
+                "siftery",
+                "ipqwery",
+                "apptopia",
+                "semrush",
+                "company",
+                "rank",
+                "builtwith"
+            ],
+            "identifier": {
+                "uuid": "3dd35c50-0154-ae8a-612f-599968073599",
+                "value": "GrabJobs",
+                "image_id": "v4n3h49dx0rhfrnke3bj",
+                "permalink": "grabjobs",
+                "entity_def_id": "organization"
+            },
+            "short_description": "Leading end-to-end Hiring Automation platform enabling employers and job seekers to connect seamlessly"
+        },
+        {
+            "facet_ids": [
+                "contact",
+                "siftery",
+                "apptopia",
+                "semrush",
+                "company",
+                "rank",
+                "builtwith",
+                "bombora"
+            ],
+            "identifier": {
+                "uuid": "6bfa0e76-10cb-764a-d104-5371361d6159",
+                "value": "GrabCAD",
+                "image_id": "v1397186816/0f54b56a9db16c3c1bde05bd2f88c6f1.jpg",
+                "permalink": "grabcad",
+                "entity_def_id": "organization"
+            },
+            "short_description": "GrabCAD is an online community network for mechanical engineers to share talent, expand knowledge and collaborate with others."
+        },
+        {
+            "facet_ids": [
+                "contact",
+                "siftery",
+                "ipqwery",
+                "privco",
+                "apptopia",
+                "company",
+                "rank",
+                "builtwith",
+                "bombora"
+            ],
+            "identifier": {
+                "uuid": "1382c7fb-e0c0-99e1-e253-19f05afc2fa0",
+                "value": "Grabit Inc.",
+                "image_id": "v1496327550/wwzhbh9hx1tjt7hhdizl.png",
+                "permalink": "grabit",
+                "entity_def_id": "organization"
+            },
+            "short_description": "Grabit is transforming manufacturing and warehouse logistics with game changing robotic automation solutions."
+        },
+        {
+            "facet_ids": [
+                "contact",
+                "siftery",
+                "ipqwery",
+                "semrush",
+                "company",
+                "rank",
+                "job_posting",
+                "builtwith",
+                "bombora"
+            ],
+            "identifier": {
+                "uuid": "a8c0308c-6bb5-081a-01ba-d4a1010373cc",
+                "value": "Grabango",
+                "image_id": "tscj3lce9swrijhcxqhn",
+                "permalink": "grabango",
+                "entity_def_id": "organization"
+            },
+            "short_description": "Grabango is a checkout-free technology for existing, large-scale grocery, and convenience stores."
+        },
+        {
+            "facet_ids": [
+                "contact",
+                "siftery",
+                "privco",
+                "aberdeen",
+                "semrush",
+                "company",
+                "rank",
+                "builtwith"
+            ],
+            "identifier": {
+                "uuid": "4ae11488-8d98-9054-9363-7c43f35140cb",
+                "value": "Grab Green",
+                "image_id": "v1415806229/axagyqg1ygkkczro8lgx.png",
+                "permalink": "grab-green",
+                "entity_def_id": "organization"
+            },
+            "short_description": "Grab Green is bridging the gap between people and profits, one clean home at a time."
+        },
+        {
+            "facet_ids": [
+                "contact",
+                "siftery",
+                "semrush",
+                "company",
+                "rank",
+                "builtwith"
+            ],
+            "identifier": {
+                "uuid": "c0aa61b6-2e74-a73d-ec53-f8b6b1487781",
+                "value": "GrabOn",
+                "image_id": "v1436767098/j5v9kvj2hgax6jfrvvhh.jpg",
+                "permalink": "grabon",
+                "entity_def_id": "organization"
+            },
+            "short_description": "GrabOn is an online coupons, offers, promo codes, and coupon codes site."
+        }
+    ]
+}
